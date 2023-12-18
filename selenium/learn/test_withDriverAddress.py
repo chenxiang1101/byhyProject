@@ -20,4 +20,3 @@ driver.get('https://www.baidu.com')
 
 time.sleep(2)
 driver.quit()
-print("程序结束")
